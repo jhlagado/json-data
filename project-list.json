@@ -1,0 +1,268 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "E-commerce Website",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Design homepage",
+          "dueDate": "2023-07-10",
+          "status": "Incomplete"
+        },
+        {
+          "id": "2",
+          "name": "Implement product listing",
+          "dueDate": "2023-07-12",
+          "status": "Complete"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mobile App Development",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Create login screen",
+          "dueDate": "2023-07-11",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Implement push notifications",
+          "dueDate": "2023-07-14",
+          "status": "Incomplete"
+        },
+        {
+          "id": "3",
+          "name": "Integrate analytics SDK",
+          "dueDate": "2023-07-18",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Marketing Campaign",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Define target audience",
+          "dueDate": "2023-07-10",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Create ad copy",
+          "dueDate": "2023-07-12",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Launch campaign",
+          "dueDate": "2023-07-15",
+          "status": "Incomplete"
+        },
+        {
+          "id": "4",
+          "name": "Monitor campaign performance",
+          "dueDate": "2023-07-20",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Software Development",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Gather requirements",
+          "dueDate": "2023-07-12",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Design system architecture",
+          "dueDate": "2023-07-15",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Event Planning",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Book venue",
+          "dueDate": "2023-07-10",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Create event schedule",
+          "dueDate": "2023-07-15",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Coordinate catering",
+          "dueDate": "2023-07-18",
+          "status": "Incomplete"
+        },
+        {
+          "id": "4",
+          "name": "Promote event",
+          "dueDate": "2023-07-22",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Content Creation",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Brainstorm topic ideas",
+          "dueDate": "2023-07-11",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Write blog post",
+          "dueDate": "2023-07-14",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Create social media graphics",
+          "dueDate": "2023-07-18",
+          "status": "Incomplete"
+        },
+        {
+          "id": "4",
+          "name": "Publish content",
+          "dueDate": "2023-07-21",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Product Launch",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Finalize product features",
+          "dueDate": "2023-07-12",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Create product documentation",
+          "dueDate": "2023-07-15",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Prepare marketing materials",
+          "dueDate": "2023-07-18",
+          "status": "Incomplete"
+        },
+        {
+          "id": "4",
+          "name": "Coordinate launch event",
+          "dueDate": "2023-07-23",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Training Program",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Identify training needs",
+          "dueDate": "2023-07-11",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Develop training materials",
+          "dueDate": "2023-07-14",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Deliver training sessions",
+          "dueDate": "2023-07-17",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Website Redesign",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Create wireframes",
+          "dueDate": "2023-07-13",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Design visual mockups",
+          "dueDate": "2023-07-17",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Develop responsive layouts",
+          "dueDate": "2023-07-22",
+          "status": "Incomplete"
+        },
+        {
+          "id": "4",
+          "name": "Test website functionality",
+          "dueDate": "2023-07-25",
+          "status": "Incomplete"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Data Analysis",
+      "tasks": [
+        {
+          "id": "1",
+          "name": "Collect data",
+          "dueDate": "2023-07-13",
+          "status": "Complete"
+        },
+        {
+          "id": "2",
+          "name": "Clean and preprocess data",
+          "dueDate": "2023-07-17",
+          "status": "Complete"
+        },
+        {
+          "id": "3",
+          "name": "Perform statistical analysis",
+          "dueDate": "2023-07-20",
+          "status": "Incomplete"
+        },
+        {
+          "id": "4",
+          "name": "Generate data visualizations",
+          "dueDate": "2023-07-24",
+          "status": "Incomplete"
+        }
+      ]
+    }
+  ]
+}
